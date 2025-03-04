@@ -1,60 +1,81 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: 简 历
+subtitle: 一个值得记录的人
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### 如何定义我
+``` 我对肉鸽游戏和卡牌游戏比较感兴趣。喜欢随机性和策略性结合较好的游戏，喜欢有创新玩法的设计。我目前在学习使用unity制作游戏，目前已经制作过很多类型的游戏，包括平台跳跃游戏，射击游戏，卡牌游戏，肉鸽游戏，未来我计划开发一款简单的走格子+扫雷的游戏，并在itch上发布。我认为游戏最重要的就是操作简单符合直觉，但是反馈富有新意，能够时刻给玩家提供新的体验。我期待和别人的合作，我认为只有共同开发才能够避免陷入井底，让一款游戏更加的全面和完善。除此之外，我也在自学美术。 ```  
 
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+### 做过的游戏
+**Godot 平台跳跃游戏** - 独立完成 - 在家里 <span style="float: right; ">2024/01/10 ~ 2024/02/16</span>  
+- 利用 Godot 引擎编写过一个平台跳跃游戏，在游戏中实现了基本的操控玩家移动，场景交互（吃金币），场景切
+换，进度保存，基本的粒子系统、音效系统以及动画系统的使用。
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Godot 跳跃射击游戏** - 独立完成 - 在家里 <span style="float: right; ">2024/03/10 ~ 2024/05/10</span>  
+- 在这款游戏中，实现了控制角色射击，同时设计了一些有趣的敌人。例如，死亡时会发射尖刺的蜜蜂、能够追踪
+玩家的坦克以及可以召唤蜜蜂的蜂王；
+- 实现了一些特殊的技能机制，如按钮控制平台的移动，可以当做平台的落刺等。
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Unity 卡牌肉鸽（Roguelike）游戏** - 独立完成 - 在家里 <span style="float: right; ">2024/06/05 ~ 2024/08/30</span>  
+- 实现了地图设计和房间随机生成，设计了基本的卡牌抽取和卡牌效果的实现，学习了 Unity 的 UI、事件系统和
+动画系统。
 
-### EDUCATION
+**Unity SNKRT** - 独立完成 - 在家里 <span style="float: right; ">2024/09/10 ~ 2025/03/02</span>  
+-  SNKRT 是仿造 steam 上的 SNKRX 制作的，是“贪吃蛇 + 自走棋”的玩法模式。
+- 自己实现的第一个较大的游戏 demo, 制作过程中的所有游戏素材都是自己绘制的。
+- 主要学习到了 Unity 中的事件系统，单例模式，对象池，ShaderGraph。
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+### 教育经历
+
+电子科学大学 <span style="float: right; ">2019/09 ~ 2023/06</span>  
+**本科**  
+- 光电科学与工程学院
+- 信息工程专业
  
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+电子科学大学 <span style="float: right; ">2023/09 ~ 现在</span>  
+**硕士**  
+- 自动化工程学院
+- 控制与工程专业
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+### 游戏经历
 
-### EXPERIENCE
+**以下是我通关的游戏：**
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+**动作冒险游戏**
+- 塞尔达传说旷野之息: 其中的迷宫对道具的复用性令我印象深刻。
+- 塞尔达传说王国之泪: 对原地图在 Z 方向的维度拓展和对应的移动方式以及究极手很有魅力。
+- 神秘海域 4：电影级的画面和演出，沉浸感十足。
+- 生化危机系列：资源管理和地图设计，以及怪物设计都非常有意思，始终让人处于心流状态。
+- 最后生还者 1：都说最后生还者的剧情好，但是我最喜欢的确实其潜行射击和资源管理的玩法。
+- 古墓丽影系列：对标神秘海域系列，很标准的第三人称动作冒险游戏。
+
+**平台跳跃游戏**
+- 超级马里奥奥尔赛：帽子附身的玩法是的跳跃变的更加多样化。
+- 超级马里奥惊奇：惊奇花让一切都不一样了，给了人很大的新鲜感。
+- 星之卡比探索发现：探索发现的塞满嘴很有新意，和奥德赛的帽子玩法如出一辙。
+- 漫游奇境：对于跳跃能力的拓展循序渐进又充满乐趣。
+- 双人成行：相当有趣的双人游戏，玩法多样且符合直觉。
+- 小小梦魇 2：氛围感很棒，始终处于一种紧张又刺激的心情中。
+
+**肉鸽游戏**
+- 失落城堡 2：很标准的肉鸽游戏，游戏内容很丰富。
+- 杀戮尖塔：玩起来很上头，简单的机制互相关联提供了很多乐趣。
+- 骰子浪游者：本以为万能骰是最有创意的玩法，结果我更加钟意其负伤的机制玩法。
+- 小丑牌：仅仅是简单的德州扑克，搭配各种 buff 玩起来却乐趣无穷。
+- Astrea: 血量机制富有创意，最后一位先知的能量球循环的能力很好玩。
+- 终点站: 僵尸幸存者：仓鼠游戏，适合喜欢搜寻物资屯东西的玩家。
+- 堆叠大陆：基于卡牌的生存建造游戏，很有自己的想法，而且很上头。
+
+**塔防游戏**
+- 植物大战僵尸：本身就很有意思，后续的例如杂交版和融合版的出现更是实现了童年的梦想。
+- 王国保卫战系列：相当经典的机制，但是凭借自身独具一格的画面广为流行。
+- 边境开拓者：将塔防机制和卡牌巧妙结合，虽然画面稍显粗糙但不乏创意。
 
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+### 附录
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
-
-### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+[下载SNKRT介绍视频](https://github.com/TKJ2568/SNKRT)

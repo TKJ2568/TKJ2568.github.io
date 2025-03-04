@@ -2,8 +2,8 @@
 <div class="navigation">
 <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
 <ul class="menu">
-<li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
-<li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
+<li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">简 历</a></li>
+<li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">博 客</a></li>
 </ul>
 </div>
 <ul class="social-links">
@@ -13,7 +13,7 @@
 </a>
 {% endif %}
 {% if site.author.github %}
-<a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+<a href="{{ site.author.github }}" class="social-links__entry" target="_blank">
 <i class="fa fa-github"></i>
 </a>
 {% endif %}

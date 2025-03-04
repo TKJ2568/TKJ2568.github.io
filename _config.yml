@@ -1,16 +1,16 @@
 # Site settings
 title: TTK2568
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  我的标签是Unity使用者，Python爱好者，美术苦手。我是TTK2568, 当然，你也可以叫我唐阔基。
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://TKJ2568.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
+  fullname: TKJ2568
+  github: TKJ2568
   linkedin: linkedin
-  email: example@email.com
+  email: 1035069745@qq.com
 
 
 # Syntax highlighting

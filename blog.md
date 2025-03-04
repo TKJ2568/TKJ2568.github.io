@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 博 客
+subtitle: 我以后会写的，应该吧
 ---
 
 <div>
