@@ -29,6 +29,11 @@ subtitle: 一个值得记录的人
 - 自己实现的第一个较大的游戏 demo, 制作过程中的所有游戏素材都是自己绘制的。
 - 主要学习到了 Unity 中的事件系统，单例模式，对象池，ShaderGraph。
 
+**Unity 三思而后行** - 独立完成 - 在家里 <span style="float: right; ">2025/02/10 ~ 2025/03/20</span>  
+- **三思而后行**是自己原创的一款游戏，其核心玩法是走格子加扫雷。
+- 游戏中所有的游戏元素都是自己手绘的。
+- 作为一款休闲游戏，玩家在游玩过程中需要在探索和行走之间权衡，并自己考虑自己的游戏策略，在思考中获得乐趣。
+
 ### 教育经历
 
 电子科学大学 <span style="float: right; ">2019/09 ~ 2023/06</span>  
@@ -79,3 +84,5 @@ subtitle: 一个值得记录的人
 ### 附录
 
 [下载SNKRT介绍视频](https://github.com/TKJ2568/SNKRT)
+
+[三思而后行介绍视频](https://www.bilibili.com/video/BV1bLZ5YGEqU/?spm_id_from=333.1387.list.card_archive.click&vd_source=bd2247743d8366ca8910116ccf203c52)
